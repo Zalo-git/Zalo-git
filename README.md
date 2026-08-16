@@ -1,4 +1,5 @@
-## Repositorio personal, solo testeando 👋
+## Hola Zalo 👋
+## Elige tu repo, en estos inicios usa el Git inicio
 
 <!--
 **Zalo-git/Zalo-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
