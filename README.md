@@ -1,4 +1,4 @@
-## Ho-Hola soy zalo 👋
+## Primer repositorio, solo trasteando 👋
 
 <!--
 **Zalo-git/Zalo-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
